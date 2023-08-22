@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ahmad Januar</h1>
 <h3 align="center">junior-web-developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjanuar1&label=Profile%20views&color=00ff7b&style=plastic" alt="ahmadjanuar1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alppdg&label=Profile%20views&color=00ff7b&style=plastic" alt="alppdg" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadjanuar1" alt="ahmadjanuar1" /></a> </p>
  <hr>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **github repository**
 
-- 📫 How to reach me **ahmadjanuaramri2015@gmail.com**
+- 📫 How to reach me **alifdanangp07@gmail.com**
 
 - ⚡ Fun fact **give me support so that I am passionate about learning programming languages**
 
