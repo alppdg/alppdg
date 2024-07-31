@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alppdg&label=Profile%20views&color=00ff7b&style=plastic" alt="alppdg" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadjanuar1" alt="ahmadjanuar1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alppdg" alt="alppdg" /></a> </p>
  <hr>
 <img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47fkipy4imwscvqyf4ji2ozuzet6rffihacyr5j0pb&rid=giphy.gif&ct=g" align="right" alt="Coder GIF" width="480" height="300">
 
@@ -37,12 +37,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/whoisaall_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisaall_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmad-januar-a96515221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-januar-a96515221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/a-ɩɩ-41a851320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-ɩɩ-41a851320" height="30" width="40" /></a>
 <a href="https://fb.com/ahmad.januar.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.januar.942" height="30" width="40" /></a>
-<a href="https://instagram.com/_ahmadjanuarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahmadjanuarr" height="30" width="40" /></a>
+<a href="https://instagram.com/whoisaall_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisaall_" height="30" width="40" /></a>
 <a href="https://dribbble.com/jojo111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jojo111" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@jojo-dc3wm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jojo-dc3wm" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Uzp3dgCkSs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Uzp3dgCkSs" height="30" width="40" /></a>
+<a href="https://discord.gg/BUzxNGVQ4H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BUzxNGVQ4H" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Experienced with </h3>
